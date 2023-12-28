@@ -15,9 +15,6 @@ Table of Contents
 		Menu Functions
 		Client Functions
 		Transaction Function
-	5. Examples
-	6. Contributing
-	7. License
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
