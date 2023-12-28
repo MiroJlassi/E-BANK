@@ -1,0 +1,25 @@
+About This Application:
+
+Welcome!
+E-BANK v3.0.2 
+
+Key Features:
+- Client List: View a list of all your clients with their basic details.
+- Add New Client: Easily add new clients to the database, providing their name, last name, and salary information.
+- Update Client Info: Modify and update client details.
+- Remove Client: Keep your database organized by removing outdated or irrelevant client information.
+- Manage Transactions.
+
+Project Background:
+This application was crafted as part of our coursework, demonstrating our proficiency in software development.
+
+About the Developer:
+Hello! I'm Marwen Jlassi, the developer behind this project.
+This project allowed me to apply the skills and knowledge gained during my studies, and I hope you find this APP beneficial for your needs.
+
+Thank you for being here.
+
+Marwen Jlassi
+
+Email: marwen.jlassi@ensi-uma.tn
+
