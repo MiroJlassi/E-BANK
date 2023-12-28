@@ -21,7 +21,7 @@ Table of Contents
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-2. Introduction:
+1. Introduction:
 	E-Bank is a simple command-line application for managing a bank branch written in the C language.
 It allows users to perform banking activities just like in a real bank.
 
